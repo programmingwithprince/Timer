@@ -11,6 +11,7 @@ A simple and intuitive timer application built with HTML, CSS, and JavaScript.
 ## Demo
 
 You can check out the live demo here.
+**https://programmingwithprince.github.io/Timer/**
 
 ## You can get best experience in square display or display whose height is more than its width
 **Try to change viewport size for best experience on laptop or desktop**
